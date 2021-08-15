@@ -12,7 +12,7 @@ Los principales componentes son:
 1. CLR (Common Language Runtime): Este es el entorno de ejecución en el que corren todos los programas de .NET Framework. El código que corre bajo el CLR es llamado Managed Code (Ya que los programadores no tienen que procurarse por el manejo de memoria o de threads).
 El compilador del lenguaje compilara el código del programa en un .dll o .exe que este contiene Metadata y CIL (Common Intermediate Language).
 Luego el CLR a la hora de correr el programa vuelve a complicar el código una vez mas para generar código nativo esta conversion es realizada al momento de ejecutar las intrusiones y es llamada JIT (Just In Time)
-2. BCL (Base Class Library): Esta librería básica contiene tipos que representan los tipos de datos incorporados en el CLI, EJ: Data Types, Basic Dile Access, Collections, etc.
+2. BCL (Base Class Library): Esta librería básica contiene tipos que representan los tipos de datos incorporados en el CLI (Common Language Infrastructure), EJ: Data Types como String, Int32, Collections, etc.
 3. FCL (Framework Class Library): Esta librería contiene ASP.NET, WinForms, XML, ADO.NET y mas.
 4. CLS (Common language specification): Esta contiene un juego de reglas que todos los lenguajes deben satisfacer para poder ser compilado y ejecutados por el CLR.
 
