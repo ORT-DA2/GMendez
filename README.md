@@ -2,7 +2,6 @@
 
 * Zoom ID: 942 7731 8465
 * [Foro de Tecnologia](https://aulas.ort.edu.uy/mod/forum/view.php?id=231726)
-* [GitHub: Cuentas](https://1drv.ms/x/s!AsRv3us8uF1Rg8JNRBvzcjCj0erZ3A?e=d13yAE)
 
 ## 1) .NET Core WebApi
 
