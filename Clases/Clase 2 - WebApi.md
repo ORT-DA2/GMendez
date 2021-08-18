@@ -166,7 +166,7 @@ Hasta ahora, estuvimos viendo como manejar recursos especificos.  `Dog`  es un r
 
 Que pasa si tenemos que hacer algun tipo de calculo o funcion en nuestra API. Por ejemplo, hacer algun tipo de calculo financiero complejo, o hacer una traduccion de un lenguaje a otro. Ninguna de estas acciones se representa por un recurso. Estas acciones responden un resultado, no un recurso.
 
-En este caso, es necesario usar verbos y no sustantivos. Es importante mantener estos verbos lo mas simple posible. Por ejemplo, si tendriamos que tener un endpoint para convertir de una moneda a otra, se podria hacer de la siguiente manera:
+En este caso, es necesario usar verbos y no sustantivos. Es importante mantener estos verbos lo mas simple posible. Por ejemplo, si tuviéramos que tener un endpoint para convertir de una moneda a otra, se podria hacer de la siguiente manera:
 
 `/convert?from=EUR&to=CNY&amount=100`
 
