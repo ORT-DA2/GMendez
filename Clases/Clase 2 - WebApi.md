@@ -180,7 +180,7 @@ El manejo de errores es un aspecto critico de una buena API. Es muy importante p
 
 **Usar HTTP Codes**
 
-Es importante usar los HTTP codes en las situaciones adecuadas para seguir un standard. Existen sobre 70  [codigos](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes), aunque solo un subconjunto es utilizado comunmente.
+Es importante usar los HTTP codes en las situaciones adecuadas para seguir un standard. Existen más de 70  [codigos](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes), aunque solo un subconjunto es utilizado comunmente.
 
 _Cuantos usar?_
 
