@@ -176,7 +176,7 @@ Es importante que estos endpoints sean documentados correctamente, especificando
 
 ### Manejo de errores
 
-El manejo de errores es un aspecto critico de una buena API. Es muy importante poder explicarle al usuario de la API porque una request fallo, y brindarle toda la información necesaria para que pueda solucionarlo.
+El manejo de errores es un aspecto critico de una buena API. Es muy importante poder explicarle al usuario de la API por qué una request falló, y brindarle toda la información necesaria para que pueda solucionarlo.
 
 **Usar HTTP Codes**
 
