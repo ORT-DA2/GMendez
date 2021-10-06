@@ -166,7 +166,7 @@ Hasta ahora, estuvimos viendo como manejar recursos especificos.  `Dog`  es un r
 
 Que pasa si tenemos que hacer algun tipo de calculo o funcion en nuestra API. Por ejemplo, hacer algun tipo de calculo financiero complejo, o hacer una traduccion de un lenguaje a otro. Ninguna de estas acciones se representa por un recurso. Estas acciones responden un resultado, no un recurso.
 
-En este caso, es necesario usar verbos y no sustantivos. Es importante mantener estos verbos lo mas simple posible. Por ejemplo, si tendriamos que tener un endpoint para convertir de una moneda a otra, se podria hacer de la siguiente manera:
+En este caso, es necesario usar verbos y no sustantivos. Es importante mantener estos verbos lo mas simple posible. Por ejemplo, si tuviéramos que tener un endpoint para convertir de una moneda a otra, se podria hacer de la siguiente manera:
 
 `/convert?from=EUR&to=CNY&amount=100`
 
@@ -176,11 +176,11 @@ Es importante que estos endpoints sean documentados correctamente, especificando
 
 ### Manejo de errores
 
-El manejo de errores es un aspecto critico de una buena API. Es muy importante poder explicarle al usuario de la API porque una request fallo, y brindarle toda la información necesaria para que pueda solucionarlo.
+El manejo de errores es un aspecto critico de una buena API. Es muy importante poder explicarle al usuario de la API por qué una request falló, y brindarle toda la información necesaria para que pueda solucionarlo.
 
 **Usar HTTP Codes**
 
-Es importante usar los HTTP codes en las situaciones adecuadas para seguir un standard. Existen sobre 70  [codigos](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes), aunque solo un subconjunto es utilizado comunmente.
+Es importante usar los HTTP codes en las situaciones adecuadas para seguir un standard. Existen más de 70  [codigos](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes), aunque solo un subconjunto es utilizado comunmente.
 
 _Cuantos usar?_
 

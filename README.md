@@ -1,6 +1,6 @@
 # Clases
 
-* Zoom ID: 958 4350 1210
+
 * [Foro de Tecnologia](https://aulas.ort.edu.uy/mod/forum/view.php?id=231726)
 
 ## 1) .NET Core WebApi
